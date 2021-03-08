@@ -1,0 +1,94 @@
+Bài 1: Viết chương trình nhập ba số a,b,c là số nguyên dương. Tìm số lớn nhất trong 3 số.
+-------------------------------------------------------------
+Bài 2: Viết chương trình nhập vào một phép tính bất kỳ như: +,-,*,/ và thực hiện yêu cầu sau:
+ a. Nếu phép tính = + thực hiện tính tổng
+ b. Nếu phép tính = - thực hiện tính hiệu
+ c. Nếu phép tính = * thực hiện tính tích
+ d. Nếu phép tính = / thực hiện tính thương
+-------------------------------------------------------------
+Bài 3: Viết chương trình nhập vào một số nguyên n từ bàn phím. Tính giai thừa của n vừa nhập;
+	Ví dụ: n=4 => n!=1*2*3*4
+-------------------------------------------------------------
+Bài 4: Viết chương trình nhập vào một số nguyên n từ bàn phím.In ra các số lẻ của n vừa nhập.
+	Ví dụ: Nhập n=10 ta có các số 1;2;3;4;5;6;7;8;9;10
+	       Xuất: 1;3;5;7;9
+-------------------------------------------------------------
+Bài 5: Viết chương trình nhập vào một số nguyên n từ bàn phím. Tính tổng các chữ số của n.
+ Ví dụ: Nhập n=567
+        Xuất: s=7+6+5 => s=18
+-------------------------------------------------------------
+Bài 6: Viết chương trình nhập vào một số nguyên n từ bàn phím. In số đảo ngược của n.
+ Ví dụ: Nhập n=567 
+	Xuất: 765
+-------------------------------------------------------------
+Bài 7: Viết chương trình nhập vào một số nguyên n>0 từ bàn phím.
+ a. Nếu nhập n=0 hoặc n<0 thì yêu cầu nhập lại.
+ b. Nếu n>0 thì kiểm số n là số chẵn hay lẻ
+-------------------------------------------------------------
+Bài 8: Viết chương trình nhập vào một số nguyên dương n. Kiểm tra số n nhập vào là nguyên tố hay không nguyên tố.
+-------------------------------------------------------------
+Bài 9: Viết chương trình nhập vào một mảng số nguyên a có n phần tử và thực hiện các yêu cầu sau:
+ a. Tính tổng các giá trị của các phần tử trong mảng.
+ b. Tính tổng các phần tử chia hết cho 3 và 5
+ c. Đếm có bao nhiêu phần tử chẵn
+ d. Nhập một giá trị x, kiểm tra giá trị x vừa nhập có trong mảng hay không?
+ e. Đếm có bao nhiêu phần tử là số nguyên tố
+ i. Tìm giá trị lớn nhất trong mảng
+-------------------------------------------------------------
+Bài 10: Viết chương trình nhập vào hai số nguyên biến con trỏ rồi so sánh hai giá trị dựa trên biến con trỏ.
+-------------------------------------------------------------
+Bài 11: Viết chương trình nhập vào một mảng số nguyên n phần tử từ bàn phím. Tính tổng các phần tử trong mảng (sử dụng con trỏ mảng).
+-------------------------------------------------------------
+Bài 12: Viết chương trình nhập vào một mảng số nguyên a có n phần tử dạng con trỏ và thực hiện các yêu cầu sau:
+ a. Tính tổng các phần tử chia hết cho 3 và 5
+ b. Đếm có bao nhiêu phần tử chẵn
+ c. Nhập một giá trị x, kiểm tra giá trị x vừa nhập có trong mảng hay không?
+ d. Đếm có bao nhiêu phần tử là số nguyên tố
+ e. Tìm giá trị lớn nhất trong mảng
+ i. Sắp xếp mảng tăng dần, dùng thuật toán nổi bọt.
+-------------------------------------------------------------
+Bài 13: Viết chương trình nhập vào một mảng số nguyên a có n phần tử dạng con trỏ và thực hiện các yêu cầu sau:
+ a. Viết hàm in các phần tử là số nguyên tố.(hàm kiểm tra nguyên tố, hàm đếm số nguyên tố)
+ b. Viết hàm tính trung bình cộng các phần tử trong mảng.
+ c. Viết hàm nhập vào một giá x từ bàn phím và chèn giá trị x vào vị trí thứ 3 trong mảng.
+ d. Viết hàm xóa tất cả các phần tử x vừa nhập có trong mảng.
+-------------------------------------------------------------
+Bài 14: Viết hàm nhập vào một chuỗi ký tự chứa các chữ số và thực hiện các yêu cầu sau:
+ a. Chuyển chuỗi số vừa nhập thành một số nguyên.
+ b. Thực hiện tính tổng các chữ số của số nguyên đó.
+-------------------------------------------------------------
+Bài 15: Viết hàm nhập vào một mảng chuỗi với n phần tử nhập từ bàn phím và thực hiện các yêu cầu sau:
+ a. Đếm xem có bao nhiêu chuỗi giống nhau.
+ b. Kiểm tra xem mảng chuỗi đó có chứa chuỗi là ký tự số không?
+-------------------------------------------------------------
+Bài 16: Xây dựng cấu trúc Student như sau:
+	Name: char[30]
+	Age : int
+	Marks: 
+	English : float
+	Computer : float
+	Math : float
+ a. Viết hàm nhập vào một mảng với n phần tử Student.
+ b. Viết hàm in ra màn hình các Student vừa nhập từ mảng, theo cấu trúc sau:
+STT   Full name     Age      English   Computer     Math 	
+1     Dung	    40          5          6          7
+2     Binh          20          9          7          8
+
+ c. Tính điểm trung bình cho sinh viên và in danh sách sv có thêm cột điểm trung bình.
+-------------------------------------------------------------
+Bài 17: Viết chương trình nhập vào hai chuỗi s1 và đếm xem chuỗi s1 có chứ ký tự space (khoảng cách) hay không nếu có thì chuỗi đó chứa bao nhiêu ký tự space.
+-------------------------------------------------------------
+Bài 18: Viết chương trình ghi một giá trị vào tệp có tên là input.txt. Đọc giá trị từ tệp input.txt cho vào biến n. Tổng các giá trị của n, sau đó ghi kết quả vào tệp output.txt.
+ Ví dụ: 
+	- Nhập giá trị vào tệp input.txt là 5
+	- Đọc giá trị từ tệp input.txt là n=5
+	- Tính tổng S=1+2+3+4+5 => S=15 thì số 15 được ghi vào tệp output.txt
+-------------------------------------------------------------
+Bài 19: Cho một tệp có tên là string.txt lưu giá trị là 123456. Thực hiện các yêu cầu sau:
+ a. Đọc giá trị từ tệp string.txt cho vào biến string (chuỗi).
+ b. Chuyển giá trị chuỗi đó sang số nguyên.
+ c. Tính tổng các chữ số của số nguyên đó rồi ghi vào tệp output.txt (viết hàm)
+-------------------------------------------------------------
+Bài 20: Viết chương trình nhập vào một mảng số nguyên n phần tử từ bàn phím, sau đó ghi các giá trị của phần tử đó vào tệp array.txt.
+
+  --------------------------- Hết ---------------------------
